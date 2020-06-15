@@ -44,7 +44,7 @@
 
 
 ## About The Project
-> **Oud** is an online music streaming service which is a mimic of [Spotify](https://open.spotify.com/) with all its functionalities
+> **Oud** is an online music streaming service which is a high quality clone of [Spotify](https://open.spotify.com/) with all its functionalities
 
 ### Build with
 - [React JS](https://reactjs.org/)
